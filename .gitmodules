@@ -1,0 +1,3 @@
+[submodule "firstattempt"]
+	path = firstattempt
+	url = git@github.com:madmax3553/firstattempt.git
